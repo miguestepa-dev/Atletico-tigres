@@ -10,7 +10,7 @@ import { ScrollTrigger } from 'https://cdn.skypack.dev/gsap/ScrollTrigger'
 
 // GSAP
 
-gsap.registerPlugin(ScrollTrigger)
+gsap.registerPlugin(ScrollTrigger) 
 
 // SCENE
 
